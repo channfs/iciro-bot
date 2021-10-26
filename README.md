@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/413515d9f90f4c2855d9b.jpg" alt="ICIROBOT" width="170" />
 
 ## 'Deploy'
-[![Deploy](https://herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/channfs/chandra/)
+[![Deploy](https://herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/channfs/iciro-bot/)
 
 ## ICIROBOT
 
