@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-bot",
   "description": "whatsapp bot build with nodejs",
-  "repository": "https://github.com/channfs/chandra",
+  "repository": "https://github.com/channfs/iciro-bot",
   "logo": "https://h.top4top.io/p_2125aiczx0.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
 }
